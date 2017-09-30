@@ -1,0 +1,48 @@
+/*html {
+  background: linear-gradient(to bottom right, #f2d0d5, #db6d7f);
+  background: url(http://idolza.com/a/l/p/pink-design-background-tumblr-images_pastel-design_interior-design-gallery-education-enterior-affordable-house-plans-website-freshhomes-home-and-architecture-designers-melbourne_1080x960.jpg);
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  font: normal small-caps 18px avant gard;
+}*/
+
+html {
+  background: url(https://cdn1.savepice.ru/uploads/2017/9/30/154538154953210050eae2f69733fffc-full.png);
+  font: normal small-caps 18px avant gard;
+}
+
+.text {
+  margin-left: 50px;
+  color: #441824;
+}
+
+.photo {
+  margin-right: 50px;
+  border-radius: 10px;
+  box-shadow: -18px 0 20px -20px #333,
+                 18px 0 20px -20px #333;
+}
+
+a {
+  color: #441824;
+}
+
+ul {
+  width: 950px;
+}
+
+hr {
+  margin-left: 40px;
+}
+
+h1 {
+  margin-top: 30px;
+  color: #441824;
+  font-size: 40px;
+}
+
+.icon {
+  margin-left: 50px;
+  padding: 10px;
+}
